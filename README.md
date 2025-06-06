@@ -19,7 +19,7 @@
 ---
 
 ### 🧭 Currently Exploring
-- Data & Visual Storytelling  
+- Ai and Machine Learning (Learning phase)
 - Python + Creative Design workflows
 - Graphic & Sound Designing and Video Editing
 - Building a personal identity through code & creativity
