@@ -12,7 +12,7 @@
 
 ### 🔧 Tech Stack & Tools
 - 🐍 Python, Pandas, NumPy  
-- 🎨 Canva, Figma, Capcut  
+- 🎨 Canva, Figma  
 - ⚙️ Git & GitHub  
 - 📊 Google Colab
 
